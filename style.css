@@ -370,6 +370,11 @@ article .icon {
   height: 90%;
 }
 
+.project1-img {
+  height:50%;
+  margin-bottom: 200px;
+}
+
 .project-title {
   margin: 1rem;
   color: black;
